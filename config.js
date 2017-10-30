@@ -27,8 +27,8 @@ require.config({
     "aurelia-templating-binding": "https://mattduffield.github.io/aurelia-babel-deploy/node_modules/aurelia-templating-binding/dist/amd/aurelia-templating-binding",
 
     "text": "https://mattduffield.github.io/aurelia-babel-deploy/node_modules/text/text",
-    "es6": "node_modules/requirejs-babel/es6",
-    "babel": "node_modules/requirejs-babel/babel-5.8.34.min"
+    "es6": "https://mattduffield.github.io/aurelia-babel-deploy/node_modules/requirejs-babel/es6",
+    "babel": "https://mattduffield.github.io/aurelia-babel-deploy/node_modules/requirejs-babel/babel-5.8.34.min"
   },
   packages: [
     {
